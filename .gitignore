@@ -2,3 +2,7 @@ venv/
 __pycache__/
 *.pyc
 *.pdf
+dummy.py
+chunking.py
+keyword_search.py
+pdf_reader.py
